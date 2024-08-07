@@ -49,4 +49,4 @@ This project involves a database schema designed to manage a movie rental system
 
 This schema ensures that the movie rental system can efficiently manage the inventory, track rentals and reservations, and maintain customer information.
 
-![ERD](ERD.png)
+![ERD](ERD.jpg)
